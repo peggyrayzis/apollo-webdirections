@@ -15,6 +15,7 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "devDependencies": {
+    "emoji-favicon-webpack-plugin": "^1.0.1",
     "mdx-deck": "^1.6.7",
     "prettier": "github:prettier/prettier"
   },
