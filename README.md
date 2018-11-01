@@ -1,7 +1,7 @@
 
 # How to build better, faster stronger teams with GraphQL :rocket:
 
-A talk by @peggyrayzis at WebDirections Summit 2018
+A talk by [@peggyrayzis](https://twitter.com/peggyrayzis) at WebDirections Summit 2018
 
 ## Slides & Demos
 
